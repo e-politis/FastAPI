@@ -4,6 +4,22 @@ This is a FastAPI project that demonstrates a simple blog application using SQLA
 
 ## Project Structure
 
+FastAPIcourse/
+├── main.py
+├── blog/
+│ ├── init.py
+│ ├── database.py
+│ ├── hashing.py
+│ ├── models.py
+│ ├── oauth2.py
+│ ├── repository/
+│ ├── routers/
+│ ├── schemas.py
+│ ├── token.py
+├── requirements.txt
+├── blog.db
+└── .gitignore
+
 
 ## Features
 
@@ -65,9 +81,6 @@ The `.gitignore` file includes the following:
 - `*.db`
 - `.env`
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
