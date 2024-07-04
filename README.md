@@ -5,7 +5,7 @@ This is a FastAPI project that demonstrates a simple blog application using SQLA
 ## Project Structure
 
 
-
+'''
 FastAPIcourse/
 ├── pycache/
 ├── blog.db
@@ -27,7 +27,7 @@ FastAPIcourse/
 ├── main.py
 ├── requirements.txt
 └── .gitignore
-
+'''
 
 ## Features
 
