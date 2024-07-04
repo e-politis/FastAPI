@@ -7,19 +7,25 @@ This is a FastAPI project that demonstrates a simple blog application using SQLA
 
 
 FastAPIcourse/
-├── main.py
+├── pycache/
+├── blog.db
 ├── blog/
 │ ├── init.py
 │ ├── database.py
 │ ├── hashing.py
+│ ├── main.py
 │ ├── models.py
 │ ├── oauth2.py
 │ ├── repository/
 │ ├── routers/
+│ │ ├── init.py
+│ │ ├── authentication.py
+│ │ ├── blog.py
+│ │ ├── user.py
 │ ├── schemas.py
 │ ├── token.py
+├── main.py
 ├── requirements.txt
-├── blog.db
 └── .gitignore
 
 
