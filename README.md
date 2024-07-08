@@ -90,10 +90,6 @@ The `.gitignore` file includes the following:
 - `.env`
 
 
-## Contributing
-
-Contributions are welcome! Please create a pull request or open an issue to discuss any changes.
-
 ## Acknowledgments
 
 - [FastAPI](https://fastapi.tiangolo.com/)
