@@ -46,8 +46,8 @@ FastAPIcourse/
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/your-username/FastAPIcourse.git
-    cd FastAPIcourse
+    git clone https://github.com/e-politis/FastAPI.git
+    cd FastAPI
     ```
 
 2. **Create a virtual environment**:
